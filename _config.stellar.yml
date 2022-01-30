@@ -1,0 +1,41 @@
+sidebar:
+  widgets:
+    default_layout: [welcome, recent]
+  menu:
+    post: '[btn.blog](/)'
+    wiki: '[专栏](/wiki/)'
+    notes: '[笔记](/notes/)'
+    about: '[关于](/about/)'
+comments:
+  service: beaudar
+  beaudar:
+    repo: oec2003/hblog-comments
+
+article:
+  # 分类颜色
+  category_color:
+    '技术': '#1E90FF'
+    '读书': '#E0FFFF'
+    '跑步': '#A2CD5A'
+    '思考': '#CD3278'
+    '成长': '#EEE685'
+    '管理': '#CDAF95'
+
+  share: [wechat, weibo, email, link]
+
+
+footer:
+  sitemap:
+    '博客主页':
+      - '[主页](/)'
+    '博客':
+      - '[近期发布](/blog/)'
+      - '[分类](/categories/)'
+      - '[标签](/tags/)'
+      - '[归档](/archives/)'
+    'Wiki':
+      - '[所有专栏](/wiki/)'
+      - '[便签](/notes/)'
+    '联系':
+      - '[关于我](/about/)'
+      - '[GitHub](https://github.com/oec2003)'

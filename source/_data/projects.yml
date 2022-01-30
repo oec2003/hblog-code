@@ -1,0 +1,30 @@
+DesignPattern:
+  title: 设计模式
+  subtitle: 轻松学习设计模式
+  tags: 技术
+  cover: false
+  logo:
+    src: https://cdn.jsdelivr.net/gh/oec2003/hblog-images/img/202201212217776.png
+    small: 112px
+    large: 240px
+  description: 这个系列是 09 年听李建忠在微软的 WebCast 上的设计模式视频讲座后写的学习笔记，基本是视频内容的复原。
+  repo: oec2003/StudySamples
+  comment_title: '评论区仅供交流，有问题请提 [issue](https://github.com/oec2003/StudySamples/issues) 反馈。'
+  beaudar:
+    repo: oec2003/hblog-comments
+    'issue-term': 'Q & A'
+  sections:
+    '开篇': [0, 99]
+    '创建型': [100, 199]
+    '结构型': [200, 299]
+    '行为型': [300, 399]
+    '总结': [400, 499]
+
+资料:
+  title: 资料
+  index: false
+  sidebar: [toc]
+  sections:
+    '资料整理': [101, 199]
+    '常用工具': [201, 299]
+    '常用网站': [301, 399]
