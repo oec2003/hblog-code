@@ -1,11 +1,13 @@
 ---
 title: 2021 年终总结
 date: 2022-02-01 21:14:11
-categories: [技术]
-tags: [dotNET Core,Nexus]
+categories: [思考]
+tags: [年终总结]
 ---
 
 年龄越大，会觉得时间过得越快，2021 年已经结束。
+
+<!--more-->
 
 ## 疫情
 
