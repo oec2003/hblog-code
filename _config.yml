@@ -108,7 +108,7 @@ wiki_dir: wiki
 deploy:
   type: 'git'
   repo: 
-    github: https://github.com/oec2003/oec2003.github.com.git
+    github: git@github.com:oec2003/oec2003.github.com.git
     
   branch: master
   message: "Build at {{ now('YYYY-MM-DD HH:mm:ss Z') }}"
