@@ -15,7 +15,7 @@ article:
   # 分类颜色
   category_color:
     '技术': '#1E90FF'
-    '读书': '#E0FFFF'
+    '读书': '#e8930c'
     '跑步': '#A2CD5A'
     '思考': '#CD3278'
     '成长': '#EEE685'
