@@ -106,4 +106,9 @@ wiki_dir: wiki
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repo: 
+    github: https://github.com/oec2003/oec2003.github.com.git
+    
+  branch: master
+  message: "Build at {{ now('YYYY-MM-DD HH:mm:ss Z') }}"
