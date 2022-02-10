@@ -28,7 +28,7 @@ jobs:
     # Deploy hexo blog website.
     - name: Deploy
       id: deploy
-      uses: sma11black/hexo-action@v1.0.4
+      uses: sma11black/hexo-action@v1.0.3
       with:
         deploy_key: ${{ secrets.BLOG_DEPLOY_PRIVATE }}
         user_name: oec2003  # (or delete this input setting to use bot account)
