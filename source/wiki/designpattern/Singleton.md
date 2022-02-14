@@ -13,7 +13,7 @@ order: 100
 
 ## 单件模式单线程环境下实现
 看下面一段代码：
-```
+```c#
 public class Singleton
 {
     private static Singleton _instance;
