@@ -7,7 +7,7 @@ title: 冯威的博客
 avatar: https://cdn.jsdelivr.net/gh/oec2003/hblog-images/img/202202091150148.jpg
 subtitle: '公众号：不止dotNET | 临渊羡鱼不如退而结网'
 description: '持续关注 dotNET，同时对软件架构、DDD、微服务、docker、分布式、团队管理等有浓厚兴趣，近几年一直从事零代码产品相关工作。'
-keywords:
+keywords: '编程 跑步 健身 分布式 微服务 架构 C# .NET Core Golang Java '
 author: oec2003
 language: zh-CN
 timezone: ''
@@ -101,6 +101,8 @@ ignore:
 ## stellar languages
 theme: stellar   
 
+Plugins: hexo-generate-feed
+
 wiki_dir: wiki
 
 # Deployment
@@ -109,6 +111,19 @@ deploy:
   type: 'git'
   repo: 
     github: git@github.com:oec2003/oec2003.github.com.git
+  #type: baidu_url_submitter
     
   branch: master
   message: "Build at {{ now('YYYY-MM-DD HH:mm:ss Z') }}"
+
+sitemap:
+  path: sitemap.xml
+
+baidusitemap:
+  path: baidusitemap.xml
+
+baidu_url_submit:
+  count: 100
+  host: http://fwhyy.com
+  token: QTokGQnHOMpFoi5I
+  path: baidu_urls.txt
