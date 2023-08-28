@@ -1,5 +1,5 @@
 ---
-title: Obsidian 初体验
+title: 技术人如何打造个人品牌？
 date: 2022-06-20 08:20:20
 categories: [成长]
 tags: [总结,思考,个人品牌]

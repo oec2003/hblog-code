@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "080ca5f9e9bd4a8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "423a527d56a5233a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4fa7d648a8085a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "i-recently-read-two-low-code-books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d0815d1240016f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "54679935230ca630",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36c4844b3c443f0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "890164c3e6ad4627",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "低代码",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d6ce1fb978039bd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "99108b15ba01e6ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edb87471f9e2936a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "i-recently-read-two-low-code-books.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "c4fa7d648a8085a1",
+  "lastOpenFiles": [
+    "huawei-approach-to-digital-transformation.md",
+    "do-you-really-know-about-low-code-platforms.md",
+    "Call-API-to-modify-the-configuration-file-of-the-Ocelot.md",
+    "do-we-need-to-switch-from-monomer-to-microservice.md",
+    "how-should-we-change-our-thinking-when-using-zero-code.md",
+    "read-zhongtai-architecture-and-implementation.md",
+    "microservices-how-do-services-communicate.md",
+    "how-to-improve-writing-ability.md",
+    "structured-thinking.md",
+    "being-an-adult.md",
+    "what-to-talk-about-when-talking-about-effectiveness.md",
+    "the-high-cpu-of-rabbitmq-consumers-in-net-core.md",
+    "how-do-techies-build-their-personal-brands.md",
+    "obsidian-first-experience.md",
+    "obsidian-one-week-experience.md",
+    "read-cognitive-awakening.md",
+    "three-people-and-one-car-driving-in-tibet.md",
+    "microservices-transaction-management.md",
+    "unlock-another-note-taking-tool-logseq.md",
+    "nawal-treasure-book.md",
+    "libreoffice-implements-office-preview.md",
+    "six-pack-abs.md",
+    "after-six-years-the-second-edition-of-soft-skills-is-here.md",
+    "go-learning-from-environment-building-to-writing-a-web-service.md",
+    "go-learning-those-different-knowledge-points.md",
+    "go-learning-those-different-knowledge-points-2.md"
+  ]
+}

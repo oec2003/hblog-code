@@ -3,7 +3,7 @@ menu_id: about
 title: 关于
 ---
 
-{% about avatar:https://cdn.jsdelivr.net/gh/oec2003/hblog-images/img/202201221405744.png height:200px %}
+{% about avatar:https://cdn.jsdelivr.net/gh/oec2003/hblog-images/img/202306161650627.webp height:200px %}
 
 <!-- <img height="32px" alt="oec2003" src="https://cdn.jsdelivr.net/gh/oec2003/hblog-images/img/202201220618157.png"> -->
 
@@ -26,6 +26,8 @@ title: 关于
 ## 站点历程
 
 {% timeline %}
+<!-- node 2023 年 06 月 -->
+中间在折腾了一段时间的  NotionNext 后，又换回  hexo  的  sterllar
 <!-- node 2022 年 02 月 -->
 重新开始维护博客，主题换为 Stellar
 <!-- node 2018 年 05 月 -->
@@ -44,7 +46,6 @@ title: 关于
 申请域名fwhyy.com
 <!-- node 2006 年 12 月  -->
 开始在博客园写第一篇博客
-{% image https://cdn.jsdelivr.net/gh/oec2003/hblog-images/img/202201220957135.png width:300px %}
 {% endtimeline %}
 
 

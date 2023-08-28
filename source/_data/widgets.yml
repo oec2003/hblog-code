@@ -2,7 +2,7 @@
 welcome:
   layout: markdown
   title: 遇见就是缘分
-  content: "因为一个主题，又重新维护了这个博客，也欢迎关注我的公众号：不止dotNET"
+  content: "读书、跑步、旅行、写代码，简单而持续的进行着。公众号：不止dotNET"
 
 # Recent update
 recent:
