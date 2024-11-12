@@ -1,6 +1,6 @@
 ---
 title: .NET中操作哨兵模式的Redis（哨兵和Redis示例配置密码）
-date: 2024-02-20 17:03:06
+date: 2023-12-25 17:03:06
 categories: [技术]
 tags: [DotNet,Redis,哨兵模式]
 ---

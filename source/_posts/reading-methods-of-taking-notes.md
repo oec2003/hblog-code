@@ -1,5 +1,5 @@
 ---
-title: reading-methods-of-taking-notes
+title: 读《笔记的方法》
 date: 2024-02-06 17:31:07
 categories: [读书]
 tags: [读书笔记, 笔记]

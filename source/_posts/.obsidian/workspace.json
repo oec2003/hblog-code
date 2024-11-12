@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "i-recently-read-two-low-code-books.md",
-                "mode": "source",
+                "file": "b-side-software-development-to-product-managers-may-encounter-pitfalls.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -56,9 +56,16 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "d67fda90b3114e73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "i-recently-read-two-low-code-books.md",
+                "file": "b-side-software-development-to-product-managers-may-encounter-pitfalls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +114,9 @@
   },
   "active": "c4fa7d648a8085a1",
   "lastOpenFiles": [
+    "dotnet-8.md",
+    "未命名.md",
+    "i-recently-read-two-low-code-books.md",
     "huawei-approach-to-digital-transformation.md",
     "do-you-really-know-about-low-code-platforms.md",
     "Call-API-to-modify-the-configuration-file-of-the-Ocelot.md",
@@ -129,9 +139,6 @@
     "nawal-treasure-book.md",
     "libreoffice-implements-office-preview.md",
     "six-pack-abs.md",
-    "after-six-years-the-second-edition-of-soft-skills-is-here.md",
-    "go-learning-from-environment-building-to-writing-a-web-service.md",
-    "go-learning-those-different-knowledge-points.md",
-    "go-learning-those-different-knowledge-points-2.md"
+    "after-six-years-the-second-edition-of-soft-skills-is-here.md"
   ]
 }
